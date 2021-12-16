@@ -1,2 +1,2 @@
 # projectdt
-project assigned bt DT
+project assigned by DT
